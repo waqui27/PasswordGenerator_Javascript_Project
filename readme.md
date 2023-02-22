@@ -10,7 +10,7 @@
 ## Project key takeaways:
 
   - Used Only **JavaScript**, **Html** and **CSS** for this project.
-  - Created a random uppercase letters, lowercase letters, numbers and symbols to generate random password
+  - It uses random uppercase letters, lowercase letters, numbers and symbols to generate random passwords
   - Used DOM to display the generated password on the screen.
   - Use DOM to copy the generated password by clicking the clipboard button.
   - Used if else to assign the checkbox value to the password
